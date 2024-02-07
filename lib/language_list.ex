@@ -24,7 +24,5 @@ defmodule LanguageList do
   def functional_list?(list) do
     # first letter in elixir "e" is capital "E"
     "Elixir" in list
-
-    
   end
 end
